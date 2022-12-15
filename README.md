@@ -1,6 +1,6 @@
 
 
-<h1>Restaurante</h1>
+<h1 align="center">Restaurante</h1>
 
 
 
