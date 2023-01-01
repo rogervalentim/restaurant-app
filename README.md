@@ -1,9 +1,17 @@
+<h1 align="center">🍽️Restaurante</h1><span>
+
+<div align="center">
+<img src=".github/restaurant.png" />
+</div>
+
+<div align="center">
+<a href="https://restaurant-a83azib2d-rogervalentim.vercel.app/" target="_blank">clique para visitar o projeto</a>
+</div>
 
 
-<h1 align="center">Restaurante</h1>
-
-
-
-[recording-2022-12-14-23-08-48.webm](https://user-images.githubusercontent.com/103151728/207755851-55590076-d000-4009-898c-fb7b7ab2be3a.webm)
-
-
+<h1>💼 Tecnologias utilizadas</h1>
+<p>Para o desenvolvimento deste site utilizei as seguintes tecnologias:</p>
+<h1>🔵Frontend</h1>
+<ul>
+<li>React</li>
+</ul>
