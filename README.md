@@ -11,7 +11,6 @@
 
 <h1>💼 Tecnologias utilizadas</h1>
 <p>Para o desenvolvimento deste site utilizei as seguintes tecnologias:</p>
-<h1>🔵Frontend</h1>
 <ul>
 <li>React</li>
 </ul>
